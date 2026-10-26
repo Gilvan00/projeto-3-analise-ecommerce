@@ -20,4 +20,37 @@ Gráfico de densidade dos preços.
 
 Gráfico de regressão entre número de avaliações e preço.
 
+### Tecnologias utilizadas
+
+Python
+
+Pandas
+
+NumPy
+
+Plotly
+
+Dash
+
+SciPy
+
+### Como executar
+
+Instale o Python.
+
+Instale as dependências executando pip install -r requirements.txt.
+
+Deixe o arquivo ecommerce_estatistica.csv na pasta do projeto.
+
+Execute python projeto.py.
+
+Abra no navegador o endereço local indicado no terminal, normalmente http://127.0.0.1:8050/.
+
+### Arquivos
+
+projeto.py: código-fonte da aplicação.
+
+ecommerce_estatistica.csv: conjunto de dados utilizado, caso sua distribuição seja permitida.
+
+requirements.txt: dependências necessárias.
 
